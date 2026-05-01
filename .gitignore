@@ -2,3 +2,11 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Modelos treinados (regenerados correndo o notebook)
+models/*.pkl
+models/multiclass/*.pkl
+
+# Resultados de treino (regenerados correndo o notebook)
+data/resultados_modelos.csv
+data/resultados_multiclasse.csv

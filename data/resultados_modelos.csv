@@ -1,7 +1,0 @@
-Algoritmo,Accuracy,Accuracy CV,F-Score,Time (s)
-Linear Regression,0.9691,0.2672,0.9686,0.05
-Random Forest,0.9649,0.9768,0.9648,3.12
-Decision Tree,0.9571,0.9686,0.9576,0.16
-K-Neighbors Classifier,0.9321,0.9435,0.9359,0.32
-SVM,0.9134,0.904,0.9201,25.39
-Logistic Regression,0.9118,0.9003,0.9191,0.1
